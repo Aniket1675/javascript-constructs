@@ -9,5 +9,6 @@ if((day<=20 && month<=6) && (day>=20 && month>=3) && (day<=31))
 else
 {
     console.log("false");
+    console.log("");
     
 }
